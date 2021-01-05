@@ -2,7 +2,7 @@
 a quick reference list of built in error types for python  
 
 Will print a list of built in exception names  
-```python print(dir(locals()['__builtins__']))```  
+```print(dir(locals()['__builtins__']))```  
 
 This error list comes from "https://www.programiz.com/python-programming/exceptions"  
 
