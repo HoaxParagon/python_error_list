@@ -6,6 +6,7 @@ Will print a list of built in exception names
 print(dir(locals()['__builtins__']))
 ```  
 
+## Exception List
 This error list comes from "https://www.programiz.com/python-programming/exceptions"  
 
 Exception	            | Cause of Error
