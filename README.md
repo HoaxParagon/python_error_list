@@ -1,7 +1,7 @@
 # python_error_list
-a quick reference list of built in error types for python  
+A quick reference list of built in error types for python.
 
-Will print a list of built in exception names  
+Will print a list of built in exception names:  
 ```python 
 print(dir(locals()['__builtins__']))
 ```  
